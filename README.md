@@ -8,3 +8,15 @@ A generic non-planar slicer, that can print almost any part without support.
 Check out my YouTube video for more details!
 
 Thank you to JLCCNC for helping create the extruder mount and build plate for my [4 Axis Core R-Theta Printer](https://github.com/jyjblrd/Core-R-Theta-4-Axis-Printer).
+
+
+
+Bibtex Citation:
+```
+@software{Bird_S4_Slicer,
+author = {Bird, Joshua},
+license = {GPL-3.0},
+title = {{S4 Slicer}},
+url = {https://github.com/jyjblrd/S4_Slicer}
+}
+```
